@@ -1,0 +1,47 @@
+# windows
+Thumbs.db
+
+#mac
+.DS_Store
+
+# visual studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+
+# mono transients
+*.pidb
+*.userprefs
+
+# unity transients
+Library/
+Temp/
+*.csproj
+*.sln
+*.unityproj
+
+# vim transients
+*.swo
+*.swp
